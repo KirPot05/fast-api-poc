@@ -1,0 +1,19 @@
+# Virtual environment files
+venv/
+
+# Environment variables
+.env
+.env.local
+
+
+# Test coverage
+.coverage
+.pytest_cache
+
+
+# Cache
+__pycache__
+
+
+# Local DB instances
+test.db
